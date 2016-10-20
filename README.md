@@ -1,2 +1,5 @@
-# resume
-Resume driven by Hugo
+#个人简历
+
+```
+使用Hugo开发
+```
