@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "http://example.org/"
+baseurl = " http://shirley0926.github.io/"
 languageCode = "zh-cn"
 title = "杨超凡-简历"
 theme = "hugo-orbit-theme"
